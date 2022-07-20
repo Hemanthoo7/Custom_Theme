@@ -2,6 +2,6 @@
     <title>Frontend Theme</title>
     <parent>Magento/luma</parent>
     <media>
-        <preview_image>media/preview.jpg</preview_image>
+        <preview_image>media/run.jpg</preview_image>
     </media>
 </theme>
